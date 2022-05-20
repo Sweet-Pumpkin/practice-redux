@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom/client';
 
 import Redux00 from './Redux00';
 import Redux01 from './Redux01';
-import Redux02 from './Redux02';
 
 import { Provider } from 'react-redux';
 import { store } from './store/store';
@@ -14,7 +13,5 @@ root.render(
         <Redux00 />
         <br />
         <Redux01 />
-        <br />
-        <Redux02 />
     </Provider>
 );

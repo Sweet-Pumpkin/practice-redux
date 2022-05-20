@@ -8,7 +8,7 @@ export default function Redux01() {
 
   return (
     <div>
-      <p>Redux02</p>
+      <p>Redux01</p>
       <button onClick={() => dispatch(minus())}>-</button>
       Value: { count } 
       <button onClick={() => dispatch(plus())}>+</button>

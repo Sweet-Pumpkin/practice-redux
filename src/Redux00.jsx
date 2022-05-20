@@ -12,7 +12,7 @@ export default function Redux00() {
 
   return (
     <div>
-      <p>Redux01</p>
+      <p>Redux00</p>
       <button onClick={minus}>-</button>
       Value: { counter } 
       <button onClick={plus}>+</button>
